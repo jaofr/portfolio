@@ -15,7 +15,7 @@ function AppRoutes() {
                 <Route path="/projetos" element={<Projetos />} ></Route>
                 <Route path="/contato" element={<Cotanto />} ></Route>
             </Routes>
-    </BrowserRouter>
+        </BrowserRouter>
     )
 }
 
